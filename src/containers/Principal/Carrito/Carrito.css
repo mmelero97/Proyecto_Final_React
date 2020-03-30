@@ -1,0 +1,42 @@
+.Comprar2{
+    width: 30%;
+    font-size: 20px;
+    padding: 2px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #008080;
+    border-radius: 6px;
+    border: 2px solid #008080;
+    margin-right: 1%;
+    font-family: monospace; 
+}
+
+.Comprar2 a{
+    color: white;
+}
+
+.EncabezadoCarrito {
+    font-family: monospace; 
+}
+
+.Total p{
+    font-family: monospace; 
+    font-size: 24px;
+}
+
+.Comprar2:hover{
+    font-size: 20px;
+    color: #008080;
+    border: 2px solid #008080;
+    background-color: #ffffff;
+}
+
+.Comprar2:hover a{
+    color: #008080;
+}
+
+.BotonComprar2 {
+    margin-bottom: 5%;
+}

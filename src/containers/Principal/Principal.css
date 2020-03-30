@@ -1,0 +1,76 @@
+.Escaparate {
+    justify-content: center;
+    width: 100%;
+}
+
+.Encabezado {
+    justify-content: center;
+    margin: auto;
+}
+
+
+.imagenCabecera {
+    width: 100%;
+}
+
+.Menu{
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 4%;
+}
+
+.Menu a{
+    color: white;
+}
+
+
+.Pedidos:hover{
+    font-size: 20px;
+    color: #1883ba;
+    border: 2px solid #008080;
+    background-color: #ffffff;
+}
+
+.Pedidos:hover a{
+    color: #008080;
+}
+
+
+.Pedidos{
+    font-size: 20px;
+    padding: 2px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #008080;
+    border-radius: 6px;
+    border: 2px solid #008080;
+    font-family: monospace; 
+    
+}
+
+.EscaparateMenu {
+    font-size: 20px;
+    padding: 2px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #008080;
+    border-radius: 6px;
+    border: 2px solid #008080;
+    margin-right: 1%;
+    font-family: monospace; 
+}
+
+.EscaparateMenu:hover{
+    font-size: 20px;
+    color: #1883ba;
+    border: 2px solid #008080;
+    background-color: #ffffff;
+}
+
+.EscaparateMenu:hover a{
+    color: #008080;
+}

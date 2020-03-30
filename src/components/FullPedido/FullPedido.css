@@ -1,0 +1,35 @@
+.PedidoDesglosado{
+    font-family: monospace; 
+    font-size: 18px;
+    margin-top: 2%;
+}
+
+.PedidoDesglosado h4{
+    text-decoration: underline;
+}
+
+.Completo{
+    border: 1px solid #bdbdbd;
+    margin-bottom: 3%;
+}
+
+.PedidoDesglosado button{
+    font-size: 20px;
+    padding: 2px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #008080;
+    border-radius: 6px;
+    border: 2px solid #008080;
+    margin-right: 1%;
+    font-family: monospace; 
+}
+
+.PedidoDesglosado button:hover{
+    font-size: 20px;
+    color: #008080;
+    border: 2px solid #008080;
+    background-color: #ffffff;
+}

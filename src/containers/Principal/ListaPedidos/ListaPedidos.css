@@ -1,0 +1,17 @@
+.ListaPedidos h2{
+    font-family: monospace; 
+    font-size: 32px;
+}
+
+
+.Hueco{
+    margin-top: 3%;
+}
+
+.CabeceraPedido{
+    font-family: monospace; 
+    font-size: 22px;
+    background-color: #008080;
+    border: 1px solid #008080;
+    color:white
+}

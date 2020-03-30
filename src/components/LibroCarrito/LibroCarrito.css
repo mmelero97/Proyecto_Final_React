@@ -1,0 +1,40 @@
+.Libro2{
+    width: 100%;
+    float:left;
+    margin: 2%;
+    padding: auto;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.col1 {
+    width: 30%;
+    float:left;
+}
+
+img {
+    width: 70%;
+}
+
+.col2 {
+    padding-top: 7%;
+    width: 50%;
+    float:left;
+}
+
+.Author2 {
+    color: gray;
+    font-size: 16px;
+}
+
+.Precio2 {
+    color: black;
+    font-size: 18px;
+}
+
+.Titulo2 {
+    color:black;
+    font-size: 22px;
+    margin-bottom: 3px;
+}

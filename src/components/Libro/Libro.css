@@ -1,0 +1,57 @@
+.Libro1{
+    width: 28.5%;
+    float:left;
+    margin: 2%;
+    padding: auto;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.Author {
+    color: gray;
+    font-size: 20px;
+}
+
+.Precio {
+    color: black;
+    font-size: 18px;
+}
+
+.Titulo {
+    color:black;
+    font-size: 26px;
+    margin-bottom: 3px;
+}
+
+.Botones {
+    margin: 5px;
+}
+
+.Cantidad {
+    margin: 10px;
+    color: black;
+    font-size: 18px;
+}
+
+.botonCantidad{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    padding: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #008080;
+    border-radius: 6px;
+    border: 2px solid #008080;
+    margin: 2px;
+}
+
+.botonCantidad:hover{
+    font-size: 20px;
+    color: #1883ba;
+    border: 2px solid #008080;
+    background-color: #ffffff;
+}
